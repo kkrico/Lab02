@@ -3,7 +3,7 @@ apiVersion: v1
 kind: Service
 metadata:
   annotations:
-    fabric8.io/git-commit: 8786918ef7f6ee21c3cb50f9ab8b958993824dea
+    fabric8.io/git-commit: ab6d6931e592e195594aa736aa5ca4a144400cc3
     fabric8.io/iconUrl: img/icons/camel.svg
     fabric8.io/git-branch: master
     prometheus.io/scrape: "true"

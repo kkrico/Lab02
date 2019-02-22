@@ -6,7 +6,7 @@
     "kind" : "Service",
     "metadata" : {
       "annotations" : {
-        "fabric8.io/git-commit" : "8786918ef7f6ee21c3cb50f9ab8b958993824dea",
+        "fabric8.io/git-commit" : "ab6d6931e592e195594aa736aa5ca4a144400cc3",
         "fabric8.io/iconUrl" : "img/icons/camel.svg",
         "fabric8.io/git-branch" : "master",
         "prometheus.io/scrape" : "true",
@@ -39,7 +39,7 @@
     "kind" : "DeploymentConfig",
     "metadata" : {
       "annotations" : {
-        "fabric8.io/git-commit" : "8786918ef7f6ee21c3cb50f9ab8b958993824dea",
+        "fabric8.io/git-commit" : "ab6d6931e592e195594aa736aa5ca4a144400cc3",
         "fabric8.io/iconUrl" : "img/icons/camel.svg",
         "fabric8.io/git-branch" : "master",
         "fabric8.io/metrics-path" : "dashboard/file/camel-routes.json/?var-project=camel-ose-springboot-xml&var-version=1.0.0-SNAPSHOT"
@@ -69,7 +69,7 @@
       "template" : {
         "metadata" : {
           "annotations" : {
-            "fabric8.io/git-commit" : "8786918ef7f6ee21c3cb50f9ab8b958993824dea",
+            "fabric8.io/git-commit" : "ab6d6931e592e195594aa736aa5ca4a144400cc3",
             "fabric8.io/iconUrl" : "img/icons/camel.svg",
             "fabric8.io/git-branch" : "master",
             "fabric8.io/metrics-path" : "dashboard/file/camel-routes.json/?var-project=camel-ose-springboot-xml&var-version=1.0.0-SNAPSHOT"
@@ -94,7 +94,7 @@
                 }
               }
             } ],
-            "image" : "mycompany/camel-ose-springboot-xml:snapshot-190222-155631-0973",
+            "image" : "mycompany/camel-ose-springboot-xml:snapshot-190222-160609-0948",
             "imagePullPolicy" : "IfNotPresent",
             "livenessProbe" : {
               "httpGet" : {
